@@ -1,6 +1,6 @@
 # Tutorial
 
-## objective(s)
+## Objective(s)
 ---
 - [ ] Build up software engineering skills
 - [ ] Build up problem solving skills
