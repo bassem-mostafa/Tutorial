@@ -1,0 +1,9 @@
+[submodule "Templates"]
+	path = Templates
+	url = https://github.com/bassem-mostafa/Templates.git
+[submodule "xstream"]
+	path = xstream
+	url = https://github.com/bassem-mostafa/xstream.git
+[submodule "xkeypoint"]
+	path = xkeypoint
+	url = https://github.com/bassem-mostafa/xkeypoint.git
