@@ -7,3 +7,15 @@
 [submodule "xkeypoint"]
 	path = xkeypoint
 	url = https://github.com/bassem-mostafa/xkeypoint.git
+[submodule "C++"]
+	path = C++
+	url = https://github.com/bassem-mostafa/Cpp.git
+[submodule "Artificial_Intelligence"]
+	path = Artificial_Intelligence
+	url = https://github.com/bassem-mostafa/Artificial_Intelligence.git
+[submodule "Computer_Vision"]
+	path = Computer_Vision
+	url = https://github.com/bassem-mostafa/Computer_Vision.git
+[submodule "Python"]
+	path = Python
+	url = https://github.com/bassem-mostafa/Python.git
