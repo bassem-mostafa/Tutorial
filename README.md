@@ -3,10 +3,70 @@
 ## Objective(s)
 ---
 - [ ] Build up software engineering skills.
+	- [ ] Data-structures
+		- [ ] Array
+			- [ ] 1D
+			- [ ] 2D
+			- [ ] 3D
+			- [ ] ...
+		- [ ] Linked List
+			- [ ] Singly Linked List
+			- [ ] Circular Linked List
+			- [ ] Doubly Linked List
+			- [ ] ...
+		- [ ] Stack
+			- [ ] ...
+		- [ ] Queue
+			- [ ] ...
+		- [ ] Tree
+			- [ ] Tree
+			- [ ] Binary Tree
+			- [ ] ...
+		- [ ] Heap
+			- [ ] ...
+		- [ ] Hash
+			- [ ] Hash Table
+			- [ ] Hash Set
+			- [ ] Hash Map
+			- [ ] ...
+		- [ ] ...
+	- [ ] Algorithms
+		- [ ] Searching
+			- [ ] Linear
+			- [ ] Binary
+			- [ ] ...
+		- [ ] Sorting
+			- [ ] Selection
+			- [ ] Bubble
+			- [ ] Insertion
+			- [ ] Merge
+			- [ ] Quick
+			- [ ] Heap
+			- [ ] ...
+		- [ ] ...
+	- [ ] Object oriented programming
+		- [ ] ...
+	- [ ] Design patterns
+		- [ ] Creational
+			- [ ] Singleton
+			- [ ] Factory
+			- [ ] ...
+		- [ ] Structure
+			- [ ] Adapter
+			- [ ] ...
+		- [ ] Behavioral
+			- [ ] Observer
+			- [ ] ...
+	- [ ] Version control
+		- [ ] git
+		- [ ] ...
+	- [ ] ...
 - [ ] Build up problem solving skills.
+	- [ ] ...
+- [ ] Build up system design skills.
+	- [ ] Understanding the differences between [API vs ABI](https://stackoverflow.com/a/3784697)
 - [ ] Build up artificial intelligence skills.
-- [ ] Understanding the differences between [API vs ABI](https://stackoverflow.com/a/3784697)
-
+	- [ ] ...
 # Tasks
 > [!Tip]
 > As a startup you can use **<u>but not limited to</u>** this file [Software Engineering](<Software Engineering/Software Engineering.md>).
