@@ -19,3 +19,6 @@
 [submodule "Python"]
 	path = Python
 	url = https://github.com/bassem-mostafa/Python.git
+[submodule "cmake"]
+	path = cmake
+	url = https://github.com/bassem-mostafa/cmake.git
