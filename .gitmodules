@@ -22,3 +22,6 @@
 [submodule "cmake"]
 	path = cmake
 	url = https://github.com/bassem-mostafa/cmake.git
+[submodule "Anomaly-Detection-Feature-Ranking"]
+	path = Anomaly-Detection-Feature-Ranking
+	url = https://github.com/hashemthe1/Anomaly-Detection-Feature-Ranking.git
